@@ -1,0 +1,24 @@
+{
+    "name": "pagekit/news",
+    "module": "news",
+    "title": "News",
+    "description": "The improved news module is always updated with this module.",
+    "version": "1.0.18",
+    "type": "pagekit-extension",
+    "license": "MIT",
+    "authors": [{
+        "homepage": "https://pagekit.com",
+        "name": "Pagekit",
+        "email": "info@pagekit.com"
+    }],
+    "extra": {
+        "icon": "icon.svg",
+        "scripts": "scripts.php"
+    },
+    "archive": {
+        "exclude": ["node_modules", "!/app"]
+    },
+    "config": {
+        "vendor-dir": "app/vendor"
+    }
+}

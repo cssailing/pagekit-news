@@ -1,0 +1,395 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pagekit 1.0.18 (pagekit/news, messages)\n"
+"POT-Creation-Date: 2019-09-21 17:14+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Trash"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Published"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Corner Post"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Approved"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Spam"
+msgstr ""
+
+msgid "Post not found!"
+msgstr ""
+
+msgid "Insufficient User Rights."
+msgstr ""
+
+msgid "Not Found %name%"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Access denied."
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "Insufficient user rights."
+msgstr ""
+
+msgid "Post not found."
+msgstr ""
+
+msgid "Please provide valid name and email."
+msgstr ""
+
+msgid "Comment not found."
+msgstr ""
+
+msgid "Please wait another %seconds% seconds before commenting again."
+msgstr ""
+
+msgid "Parent not found."
+msgstr ""
+
+msgid "Posts"
+msgstr ""
+
+msgid "Invalid slug."
+msgstr ""
+
+msgid "Posts List"
+msgstr ""
+
+msgid "Not Found Id"
+msgstr ""
+
+msgid "%title% edit"
+msgstr ""
+
+msgid "New Post"
+msgstr ""
+
+msgid "Categories List"
+msgstr ""
+
+msgid "New Categories"
+msgstr ""
+
+msgid "Tags List"
+msgstr ""
+
+msgid "New Tags"
+msgstr ""
+
+msgid "Comments on %title%"
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Written by %name% on %date%"
+msgstr ""
+
+msgid "Read more"
+msgstr ""
+
+msgid "{0} No comments|{1} %num% Comment|]1,Inf[ %num% Comments"
+msgstr ""
+
+msgid "Comments (%count%)"
+msgstr ""
+
+msgid "Comments are closed."
+msgstr ""
+
+msgid "Reply"
+msgstr ""
+
+msgid "Leave a comment"
+msgstr ""
+
+msgid "Logged in as %name%"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Name cannot be blank."
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Email invalid."
+msgstr ""
+
+msgid "Comment"
+msgstr ""
+
+msgid "Comment cannot be blank."
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "You are not allowed to post comments."
+msgstr ""
+
+msgid "Please login to leave a comment."
+msgstr ""
+
+msgid "Edit Tag"
+msgstr ""
+
+msgid "Add Tag"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Enable Markdown"
+msgstr ""
+
+msgid "Enable Comments"
+msgstr ""
+
+msgid "Edit Category"
+msgstr ""
+
+msgid "Add Category"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "No categories found."
+msgstr ""
+
+msgid "{1} %count% Category selected|]1,Inf[ %count% Categories selected"
+msgstr ""
+
+msgid "{0} %count% Category|{1} %count% Category|]1,Inf[ %count% Category"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Post"
+msgstr ""
+
+msgid "No comments found."
+msgstr ""
+
+msgid "Content cannot be blank."
+msgstr ""
+
+msgid "Author cannot be blank."
+msgstr ""
+
+msgid "E-mail"
+msgstr ""
+
+msgid "Field must be a valid email address."
+msgstr ""
+
+msgid "{0} %count% Comments|{1} %count% Comment|]1,Inf[ %count% Comments"
+msgstr ""
+
+msgid "{1} %count% Comment selected|]1,Inf[ %count% Comments selected"
+msgstr ""
+
+msgid "No tags found."
+msgstr ""
+
+msgid "{1} %count% Tag selected|]1,Inf[ %count% Tags selected"
+msgstr ""
+
+msgid "Add Posts"
+msgstr ""
+
+msgid "No posts found."
+msgstr ""
+
+msgid "{1} %count% Post selected|]1,Inf[ %count% Posts selected"
+msgstr ""
+
+
+msgid "{0} %count% News|{1} %count% News|]1,Inf[ %count% News"
+msgstr ""
+
+msgid "Must be at least one character"
+msgstr ""
+
+msgid "Title cannot be blank."
+msgstr ""
+
+msgid "Excerpt"
+msgstr ""
+
+msgid "Require e-mail."
+msgstr ""
+
+msgid "Close comments on articles older than"
+msgstr ""
+
+msgid "days."
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Show Avatars from Gravatar."
+msgstr ""
+
+msgid "Order comments by"
+msgstr ""
+
+msgid "latest last"
+msgstr ""
+
+msgid "latest first"
+msgstr ""
+
+msgid "Enable nested comments of"
+msgstr ""
+
+msgid "levels deep."
+msgstr ""
+
+msgid "Saved"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Slug"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Permalink"
+msgstr ""
+
+msgid "Numeric"
+msgstr ""
+
+msgid "Day and name"
+msgstr ""
+
+msgid "Month and name"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Posts per page"
+msgstr ""
+
+msgid "Default post settings"
+msgstr ""
+
+msgid "Sitemap XML"
+msgstr ""
+
+msgid "Filter by"
+msgstr ""
+
+msgid "Thank you! Your comment needs approval before showing up."
+msgstr ""
+
+msgid "Unable to comment. Please try again later."
+msgstr ""
+
+msgid "Select at least one category"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Enable Webp"
+msgstr ""
+
+msgid "Auto Webp Convert"
+msgstr ""
+
+msgid "Style"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Publish on"
+msgstr ""
+
+msgid "News"
+msgstr ""
+
+msgid "Edit Posts"
+msgstr ""
+
+msgid "Create Post"
+msgstr ""
+
+msgid "Not Found Posts"
+msgstr ""
+
+msgid "Excerpt need"
+msgstr ""
+
+msgid "Select at least one tag"
+msgstr ""
+
+msgid "Tags need"
+msgstr ""
+
+msgid "Categories need"
+msgstr ""
+
+msgid "Category only one"
+msgstr ""
