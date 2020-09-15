@@ -1,5 +1,5 @@
 
-import { ValidationObserver, VInput } from 'SystemApp/components/validation.vue';
+import { ValidationObserver, VInput } from '@system/app/components/validation.vue';
 var Comments  = {
 
     name: 'comments',
