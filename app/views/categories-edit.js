@@ -1,4 +1,4 @@
-import { ValidationObserver, VInput } from 'SystemApp/components/validation.vue';
+import { ValidationObserver, VInput } from '@system/app/components/validation.vue';
 import Settings from '../components/categories-settings.vue';
 window.Categories = {
     name: 'categoryedit',
