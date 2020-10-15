@@ -85,7 +85,7 @@ class SiteController extends Kernel
         return [
             '$view' => [
                 'title' =>  $title,
-                'name' => 'news:views/posts.php',
+                'name' => 'views/posts.php',
                 'link:feed' => [
                     'rel' => 'alternate',
                     'href' => App::url('@news/feed'),
@@ -194,7 +194,7 @@ class SiteController extends Kernel
         return [
             '$view' => [
                 'title' => __('News Search'),
-                'name' => 'news:views/posts.php',
+                'name' => 'views/posts.php',
                 'link:feed' => [
                     'rel' => 'alternate',
                     'href' => App::url('@news/feed'),
